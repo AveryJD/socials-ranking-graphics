@@ -23,8 +23,8 @@ A generator for the shareable NHL graphics I post to my Analytics With Avery's s
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/AveryJD/social-ranking-graphic.git
-cd social-ranking-graphic
+git clone https://github.com/AveryJD/socials-ranking-graphics.git
+cd socials-ranking-graphics
 ```
 
 2. **Create a virtual environment:**
